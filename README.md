@@ -14,6 +14,19 @@ Proyecto para Fisica Computacional 2017-1 con Rich
 - test: Tests
 - wip: Work in Progress, Jupyter Notebooks y demas
 
+#### Comandos Utiles
+
+```
+git status
+git add TuArchivoAqui
+#git checkout ElArchivoDelOtroAqui
+git commit -m "MiCommitAqui"
+git pull
+#git mergetool -t meld (si hay problemas)
+#git commit -m ¨MiMergeAqui¨
+git push
+```
+
 #### Referencias:
 
 ##### Cellular Automata (Imagenes)
