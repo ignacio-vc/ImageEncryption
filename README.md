@@ -46,3 +46,10 @@ git push
 [Sistema de Encriptación](https://codigosolucion.wordpress.com/2014/10/19/crear-un-sistema-de-encriptacion-en-python/)
 
 [Cifrado XOR](http://www.adrastea.es/blog/tag/python/)
+
+##### Páginas de interes
+
+[Caesar Cipher](http://inventwithpython.com/chapter14.html)
+
+[The Cryptoplas Crypto Challenges](http://cryptopals.com/)
+
