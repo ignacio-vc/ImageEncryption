@@ -55,8 +55,6 @@ git push
 
 ##### Algoritmo de Verlet
 
-[Aplicaciones](
-##### Las fórmulas de Verlet
 [Aplicaciones](http://www.scielo.org.mx/pdf/rmfe/v60n1/v60n1a5.pdf))
 
 
