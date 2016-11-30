@@ -47,8 +47,16 @@ git push
 
 [Cifrado XOR](http://www.adrastea.es/blog/tag/python/)
 
-##### Páginas de interes
+##### Páginas de interés
 
 [Caesar Cipher](http://inventwithpython.com/chapter14.html)
 
 [The Cryptoplas Crypto ChallengesS](http://cryptopals.com/)
+
+##### Algoritmo de Verlet
+
+[Aplicaciones](
+##### Las fórmulas de Verlet
+[Aplicaciones](http://www.scielo.org.mx/pdf/rmfe/v60n1/v60n1a5.pdf))
+
+
