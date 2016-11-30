@@ -46,3 +46,6 @@ git push
 [Sistema de Encriptación](https://codigosolucion.wordpress.com/2014/10/19/crear-un-sistema-de-encriptacion-en-python/)
 
 [Cifrado XOR](http://www.adrastea.es/blog/tag/python/)
+
+##### Las fórmulas de Verlet
+[Aplicaciones](http://www.scielo.org.mx/pdf/rmfe/v60n1/v60n1a5.pdf)
