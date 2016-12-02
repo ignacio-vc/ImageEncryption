@@ -5,7 +5,7 @@ Proyecto para Fisica Computacional 2017-1 con Rich
 #### Autores:
 - [Adriana Rosalia Sanchez Montes](https://github.com/adriross "adriross")
 - [Ismael Velázquez Gómez](https://github.com/iselplabo93 "iselplabo93")
-- [Raul Ramirez](https://github.com/jatib "jatib")
+- [Raúl Ramírez](https://github.com/jatib "jatib")
 - [Ignacio Vargas Cordero](https://github.com/ignacio-vc "ignacio-vc")
 
 #### Estructura de Directorios:
