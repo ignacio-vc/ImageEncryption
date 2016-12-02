@@ -47,6 +47,10 @@ git push
 
 [Cifrado XOR](http://www.adrastea.es/blog/tag/python/)
 
+[2D Logistic-adjusted-sine map](http://www.sciencedirect.com/science/article/pii/S0020025516000281)
+
+[Secret Sharing Schemes](http://ruxandraolimid.weebly.com/uploads/2/0/1/0/20109229/jisom_2013_paper.pdf)
+
 ##### Páginas de interés
 
 [Caesar Cipher](http://inventwithpython.com/chapter14.html)
@@ -55,6 +59,6 @@ git push
 
 ##### Algoritmo de Verlet
 
-[Aplicaciones](http://www.scielo.org.mx/pdf/rmfe/v60n1/v60n1a5.pdf))
+[Aplicaciones](http://www.scielo.org.mx/pdf/rmfe/v60n1/v60n1a5.pdf)
 
 
