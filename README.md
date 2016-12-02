@@ -47,31 +47,11 @@ git push
 
 [Cryptopals Challenges](http://cryptopals.com/)
 
-_____________________________________________________________
-
-
 [Chaos based cryptosystem using external key](http://scipy.in/2012/static/slides/cryptosystem.pdf)
 
 [Cryptography with Chaos](http://www.cmsim.org/images/1_CHAOS2012_Proceedings_Papers_M-P.pdf)
 
 [A Brief Notebook on Cryptography](http://davidlowryduda.com/a-brief-notebook-on-cryptography/)
-
-
-##### Estenografia
-
-[Hiding in plain sight](http://interactivepython.org/runestone/static/everyday/2013/03/1_steganography.html)
-
-[Open Source Data Security](http://clubhack.com/2009/files/Suhas_Desai__Open_Source_Data_Security.pdf)
-
-
-##### Cellular Automata (Imagenes)
-
-[Chaotic Encryption Method Based on Life-like Cellular Automata](http://arxiv.org/pdf/1112.6326v1.pdf "articulo")
-
-[The Research of Image Encryption Algorithms Based on Chaos Cellular Automata](https://pdfs.semanticscholar.org/bff7/e1fc9a4201e9b50b16314ceffd13c024edf4.pdf "articulo")
-
-[New Possiblities for Cellular Automata in Cryptography](http://www.criptored.upm.es/cibsi/cibsi2011/info/Ponencias/5.%20New%20Possibilities%20for%20Cellular%20Automata%20in%20Cryptography.pdf "presentacion")
-
 
 ##### Steganography
 
@@ -80,3 +60,15 @@ _____________________________________________________________
 [Steganography with Images](http://hackliza.blogspot.mx/2012/10/outra-de-esteganografia-con-imaxes.html)
 
 [Message to Binary](https://gist.github.com/soul0592/5955341)
+
+[Hiding in plain sight](http://interactivepython.org/runestone/static/everyday/2012/03/1_steganography.html)
+
+[Open Source Data Security](http://clubhack.com/2009/files/Suhas_Desai__Open_Source_Data_Security.pdf)
+
+##### Cellular Automata (Imagenes)
+
+[Chaotic Encryption Method Based on Life-like Cellular Automata](http://arxiv.org/pdf/1112.6326v1.pdf "articulo")
+
+[The Research of Image Encryption Algorithms Based on Chaos Cellular Automata](https://pdfs.semanticscholar.org/bff7/e1fc9a4201e9b50b16314ceffd13c024edf4.pdf "articulo")
+
+[New Possiblities for Cellular Automata in Cryptography](http://www.criptored.upm.es/cibsi/cibsi2011/info/Ponencias/5.%20New%20Possibilities%20for%20Cellular%20Automata%20in%20Cryptography.pdf "presentacion")
