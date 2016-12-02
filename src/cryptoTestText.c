@@ -26,11 +26,15 @@ int main()
 	int key;
 
 	printf("El siguiente programa cifra y decifra un texto de hasta 500 caracteres. \n");
-	
+
 	printf("Por favor ingresa el mensaje y cuando se te solicite ingresa también una llave\n");
 	scanf("%s",mensajeOrig);
 
 	printf("Ingresa una llave entre 0 y 26\n");
 	scanf("%d",key);
+
+			
+
+
 	return 0;
 }
