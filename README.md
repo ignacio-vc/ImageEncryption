@@ -73,6 +73,10 @@ _____________________________________________________________
 [New Possiblities for Cellular Automata in Cryptography](http://www.criptored.upm.es/cibsi/cibsi2011/info/Ponencias/5.%20New%20Possibilities%20for%20Cellular%20Automata%20in%20Cryptography.pdf "presentacion")
 
 
-##### Algoritmo de Verlet
+##### Steganography
 
-[Aplicaciones](http://www.scielo.org.mx/pdf/rmfe/v60n1/v60n1a5.pdf)
+[Examples](https://github.com/lopezezequiel/steganosaurus-py/blob/master/example.py)
+
+[Steganography with Images](http://hackliza.blogspot.mx/2012/10/outra-de-esteganografia-con-imaxes.html)
+
+[Message to Binary](https://gist.github.com/soul0592/5955341)
