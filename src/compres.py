@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 from PIL import Image
 import pywt
 import numpy as np
@@ -12,7 +13,7 @@ def filtroGrisesPromedio(imagen):
 	for i in range(x):
 		for j in range(y):
 			pixeles = px[i,j]
-			prom = sum(pixeles) / 3
+			prom = sum(pixeles) / 5
 			imagenGrises.putpixel((i,j),(prom,prom,prom))
 	return imagenGrises
 
