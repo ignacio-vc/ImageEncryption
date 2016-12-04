@@ -13,7 +13,7 @@ def filtroGrisesPromedio(imagen):
 	for i in range(x):
 		for j in range(y):
 			pixeles = px[i,j]
-			prom = sum(pixeles) / 5
+			prom = sum(pixeles) / 10
 			imagenGrises.putpixel((i,j),(prom,prom,prom))
 	return imagenGrises
 
