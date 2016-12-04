@@ -1,7 +1,6 @@
 
 # coding: utf-8
 
-# In[2]:
 
 from pylab import *
 from scipy.integrate import *
@@ -10,8 +9,6 @@ from PIL import Image
 from PIL import *
 get_ipython().magic(u'matplotlib inline')
 
-
-# In[6]:
 
 def encode_image(img, msg):
     """
@@ -78,15 +75,10 @@ if img_encoded:
     webbrowser.open(encoded_image_file)
 
 
-# In[7]:
-
 #regresa el mensaje oculto
 img2 = Image.open(encoded_image_file)
 hidden_text = decode_image(img2)
-print("Hidden text:\n{}".format(hidden_text))
-
-
-# In[ ]:
+print("Hidden text:\n{}".format(hidden_text)
 
 
 
