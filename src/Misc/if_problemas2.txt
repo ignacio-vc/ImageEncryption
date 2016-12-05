@@ -1,0 +1,440 @@
+    1  sudo apt-get install google-chrome
+    2  fdisk -l
+    3  su
+    4  python
+    5  sudo vim /etc/apt/sources.list
+    6  visudo
+    7  su
+    8  sudo vim /etc/apt/sources.list
+    9  sudo nano /etc/apt/sources.list
+   10  sudo gedit /etc/apt/sources.list
+   11  shutdown -P 0
+   12  shut down -P 0
+   13  su
+   14  debian-installer
+   15  su
+   16  ping 192.168.0.154
+   17  ping www.google.com
+   18  su
+   19  su
+   20  ls
+   21  git
+   22  sudo apt-get install git
+   23  git
+   24  ls
+   25  mkdir Git
+   26  ls
+   27  cd Git
+   28  firefox
+   29  firefox &
+   30  git clone "https://github.com/ignacio-vc/ImageEncryption"
+   31  ls
+   32  cd ImageEncryption
+   33  ls
+   34  git pull
+   35  sudo apt-get install vim
+   36  sudo nano /etc/bash.bashrc
+   37  nano /home/jatib/.bashrc
+   38  gedit /home/jatib/.bashrc &
+   39  source ~/.bashrc
+   40  ls
+   41  gedit /home/jatib/.bashrc &
+   42  cd ~/Git
+   43  ls
+   44  git clone "https://github.com/jatib/develope"
+   45  ls
+   46  git status
+   47  cd ImageEncryption
+   48  ls
+   49  git status
+   50  git add -- src/cryptoTestText.c
+   51  git commit -m "Se agrega función de encriptacion y su inversa, ejemplo de cifrado para cifrado César"
+   52  git push
+   53  clear
+   54  git status
+   55  git add -- README.md
+   56  git commit -m "Se agregan links de páginas con ejemplitos"
+   57  git push
+   58  cd Descargas
+   59  ls
+   60  rm -rf sublime*
+   61  ls
+   62  sudo dpkg -i *deb
+   63  subl &
+   64  sudo init 6
+   65  firefox & subl &
+   66  top
+   67  sudo apt-get install -f
+   68  git pull
+   69  cd Git
+   70  ls
+   71  cd ImageEncryption
+   72  ls
+   73  git pull
+   74  git status
+   75  git add -- README.md
+   76  git commit -m "Se agregan links de interes para el trabajo de encriptación"
+   77  git push
+   78  ls
+   79  git pull
+   80  ls
+   81  cat README.md
+   82  git pull
+   83  juypter notebook
+   84  cat README.md
+   85  git pull
+   86  git status
+   87  git add -- README.md
+   88  git commit -m "Acentué mi nombre :P"
+   89  git push
+   90  ls ~/Descargas
+   91  ~/Descargas/.Anaconda*
+   92  cd ~/Descargas/
+   93  ~/Descargas/./Anaconda*
+   94  ls -la ~/Descargas
+   95  chmod +777 ~/Descargas/Ana*
+   96  ~/Descargas/./Anaconda*
+   97  export PATH=/home/jatib/anaconda3/bin:$PATH
+   98  cd ~/Git/ImageEncryption
+   99  juypter notebook
+  100  export PATH=/home/jatib/anaconda3/bin:$PATH
+  101  juypter notebook
+  102  jupyter notebook &
+  103  ls
+  104  tree
+  105  sudo apt-get install tree
+  106  tree
+  107  jupyter notebook &
+  108  sudo shutdown -P 0
+  109  gedit &
+  110  firefox &
+  111  jupyter notebook &
+  112  export PATH=/home/jatib/anaconda3/bin:$PATH
+  113  jupyter notebook &
+  114  cd Got
+  115  cd Git
+  116  git pull
+  117  cd En*
+  118  ls
+  119  cd Im*
+  120  ls
+  121  cd wip
+  122  ls
+  123  cd ..
+  124  tree
+  125  cd wip
+  126  ls
+  127  cp Adri-notebook.ipynb Raul-notebook.ipynb
+  128  ls
+  129  ls -a
+  130  cat placeholder
+  131  tree
+  132  cd ..
+  133  ls
+  134  git clone "https://github.com/jatib/integradores"
+  135  cd Im*
+  136  git pull
+  137  subl &
+  138  ls
+  139  git status
+  140  git checkout -- wip/Adri-notebook.ipynb
+  141  git add -- wip/Raul-notebook.ipynb
+  142  git add -- src/compres.py
+  143  git add -- src/cryptoTestText.c
+  144  git commit -m "Compresion en py"
+  145  git config --global user.name "Raúl Ramírez"
+  146  git config --global user.email jatib@ciencias.unam.mx
+  147  git commit -m "Compresion en py"
+  148  git push
+  149  cd ..
+  150  ls
+  151  git clone "https://github.com/nigma/pywt"
+  152  ls
+  153  cd pywt
+  154  ls
+  155  gcc setup.py
+  156  gcc
+  157  sudo gcc
+  158  sudo apt-get install gcc
+  159  gcc setup.py
+  160  ls
+  161  sudo shutdown -P 0
+  162  jupyter notebook
+  163  export PATH=/home/jatib/anaconda3/bin:$PATH
+  164  jupyter notebook
+  165  jupyter notebook &
+  166  gedit &
+  167  cd Git
+  168  ls
+  169  cd Im*
+  170  git pull
+  171  ls
+  172  pip install PyWavelets
+  173  sudo apt-get install cython
+  174  cd ..
+  175  ls
+  176  cd pywt
+  177  ls
+  178  python setup.py install
+  179  sudo python setup.py install
+  180  sudo init 6
+  181  firefox &
+  182  ls
+  183  jupyter notebbook &
+  184  export PATH=/home/jatib/anaconda3/bin:$PATH
+  185  jupyter notebbook &
+  186  jupyter notebook &
+  187  cd Git
+  188  cd pywt
+  189  sudo python instal.py
+  190  ls
+  191  sudo python setup.py
+  192  sudo python install setup.py
+  193  sudo python setup.py install
+  194  sudo apt-get install  python-pywt
+  195  sudo init 6
+  196  cd Git
+  197  ls
+  198  cd Im*
+  199  ls
+  200  cd src
+  201  ls
+  202  python compres.py
+  203  subl compres.py &
+  204  python compres.py
+  205  python --version
+  206  python compres.py
+  207  locate site.py
+  208  python2 compres.py
+  209  sudo apt-get install python-matplotlib
+  210  python2 compres.py
+  211  cd ~/
+  212  ls
+  213  cd Im*
+  214  ls
+  215  cp Captura* test.png
+  216  ls
+  217  cd mv
+  218  mv
+  219  mv test.png ~/Git/
+  220  ls
+  221  cd ~/Git
+  222  ls
+  223  mv test.png Im*/src/
+  224  ls
+  225  cd Im*
+  226  ls
+  227  cd src
+  228  ls
+  229  python2 compres.py
+  230  ls /usr/bin
+  231  locate 
+  232  locate bit
+  233  clear
+  234  cd Git/Im*/src
+  235  ls
+  236  python2 compres.py
+  237  ls -la
+  238  rm -rf gris.png
+  239  ls
+  240  python2 compres.py
+  241  python2 compres.py &
+  242  python2 compres2.py &
+  243  python2 compres2.py
+  244  python2 compres.py &
+  245  export PATH=/home/jatib/anaconda3/bin:$PATH
+  246  jupyter notebook &
+  247  export PATH=/home/jatib/anaconda3/bin:$PATH
+  248  jupyter notebook &
+  249  pip install future
+  250  pip install --upgrade pip
+  251  pip install future
+  252  cd Git
+  253  ls Im*
+  254  ls
+  255  cd src
+  256  git status
+  257  git checkout -- /wip/Adri-notebook.ipynb
+  258  git checkout -- wip/Adri-notebook.ipynb
+  259  cd ..
+  260  git checkout -- wip/Adri-notebook.ipynb
+  261  git status
+  262  git add -- src/compres.py wip/Raul-notebook.ipynb src/compres2.py src/gris.png src/salida.png src/test.png
+  263  git commit -m "Pruebas de compresión de archivos"
+  264  git push
+  265  git
+  266  git push
+  267  git status
+  268  git commit -m "Imagenes test removidas"
+  269  git push
+  270  ls
+  271  ls src
+  272  cd src
+  273  python2 compres.py &
+  274  ls
+  275  rm -rf test.jpg
+  276  ls
+  277  cd ..
+  278  git status
+  279  git add -- src/compres.py src/gris.png src/salida.png src/test.png
+  280  git commit -m "pruebas de compresión nueva imagen "
+  281  git push
+  282  ls ~/
+  283  cd src
+  284  python2 compres.py &
+  285  python2 compres2.py
+  286  python2 compres2.py --mode compress test.png
+  287  ls
+  288  cd ..
+  289  tree
+  290  mkdir test
+  291  mv src/*jpg
+  292  tree
+  293  mv src/*jpg test
+  294  tree
+  295  cp test/descargaorig.jpg test/descarga.jpg
+  296  tree
+  297  mv src/*png test
+  298  ls
+  299  tree
+  300  locate github
+  301  clear
+  302  ls
+  303  tree
+  304  cp src/*py test
+  305  tree
+  306  cd test
+  307  python2 compres2.py --mode compress test.png
+  308  ls -la
+  309  python2 compres2.py --mode compress descarga.jpg
+  310  ls -la
+  311  tree
+  312  cd ..
+  313  cd test
+  314  mkdir compressWavlet
+  315  mkdir compressOther
+  316  mkdir compressSDV
+  317  ls
+  318  mv compress.py compressWavlet
+  319  mv compres.py compressWavlet
+  320  mv compres2.py compressOther
+  321  mv descarga* compressOther
+  322  tree
+  323  mv *png compressWavlet
+  324  ls
+  325  tree
+  326  rm -rf marge*
+  327  ls
+  328  tree
+  329  rm -rf merge*
+  330  tree
+  331  cd ~/Git
+  332  git clone "https://github.com/mutaphore/svd-image-compression"
+  333  ls
+  334  cd svd*
+  335  ls
+  336  tree
+  337  cat *py | less
+  338  ls
+  339  sudo init 6
+  340  ls
+  341  cd Git
+  342  ls
+  343  subl &
+  344  tree
+  345  clear
+  346  export PATH=/home/jatib/anaconda3/bin:$PATH
+  347  jupyter notebook &
+  348  cd ..
+  349  jupyter notebook &
+  350  cd Im*
+  351  cd ..
+  352  cd Git
+  353  cd Im*
+  354  ls
+  355  cd src
+  356  ls
+  357  rm -rf test.png*
+  358  ls
+  359  cd ..
+  360  git status
+  361  git add -- src/imageCompression.py
+  362  git commit -m "Código de compresión SVG basado en terminal"
+  363  git push
+  364  git pull
+  365  cd src
+  366  python2 imageCompressionNoTerminal.py &
+  367  python imageCompressionNoTerminal.py &
+  368  sudo apt-get install python-future
+  369  sudo apt-get install python-configparser
+  370  python imageCompressionNoTerminal.py &
+  371  python2 imageCompressionNoTerminal.py &
+  372  python imageCompressionNoTerminal.py &
+  373  python2 imageCompressionNoTerminal.py &
+  374  sudo init 6
+  375  export PATH=/home/jatib/anaconda3/bin:$PATH
+  376  jupyter notebook
+  377  jupyter notebook &
+  378  pip install future
+  379  pip install future python2
+  380  python2 -m pip install future
+  381  python2 pip install future
+  382  python pip install future
+  383  python -m pip install future
+  384  locate anaconda3
+  385  cd Git
+  386  cd src
+  387  cd Im*
+  388  ls
+  389  cd src
+  390  subl &
+  391  sudo init 6
+  392  cd Git
+  393  ls
+  394  cd Im*
+  395  ls
+  396  cd src 
+  397  ls
+  398  python imageCompressionNoTerminal.py
+  399  python3 imageCompressionNoTerminal.py
+  400  python2 imageCompressionNoTerminal.py
+  401  python2.7 imageCompressionNoTerminal.py
+  402  clear
+  403  export PATH=/home/jatib/anaconda3/bin:$PATH
+  404  jupyter notebook &
+  405  cd ..
+  406  jupyter notebook &
+  407  git pull
+  408  sudo init 6
+  409  export PATH=/home/jatib/anaconda3/bin:$PATH
+  410  jupyter notebook &
+  411  git clone "https://github.com/ghostrider77/attachment_yard"
+  412  ls
+  413  rm -rf attach*
+  414  ls
+  415  cd Git
+  416  git clone "https://github.com/ghostrider77/attachment_yard"
+  417  ls
+  418  cd attach
+  419  cd attach*
+  420  python2 -m pip install ipykernel
+  421  python get-pip.py
+  422  python2 get-pip.py
+  423  pip install -U pip
+  424  python pip install -U pip
+  425  python2 pip install -U pip
+  426  cd ~/decargas
+  427  cd ~/Descargas
+  428  python2 get-pip.py
+  429  sudo python2 get-pip.py
+  430  sudo python get-pip.py
+  431  python2 -m pip install ipykernel
+  432  sudo python2 -m pip install ipykernel
+  433  python2 -m ipykernel install --user
+  434  sudo init 6
+  435  export PATH=/home/jatib/anaconda3/bin:$PATH
+  436  jupyter notebook &
+  437  cd Git
+  438  ls -l
+  439  cd Im*
+  440  history >> if_problemas2.txt
