@@ -13,8 +13,9 @@ def filtroGrisesPromedio(imagen):
 	for i in range(x):
 		for j in range(y):
 			pixeles = px[i,j]
-			prom = sum(pixeles) / 10
-			imagenGrises.putpixel((i,j),(prom,prom,prom))
+			prom = float(sum(pixeles)) / 3.
+			print pixeles, prom
+			imagenGrises.putpixel((i,j),(prom+150,prom+10,prom+150))
 	return imagenGrises
 
 def generarMatriz(imagen):
