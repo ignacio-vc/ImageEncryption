@@ -76,19 +76,19 @@ git push
 #### Configurar word wraping en Jupyter.
 
 - Primero, buscamos el directorio de configuración de Jupyter
-	'''
+	```
 	jupyter --config-dir
-	'''
+	```
 - En mi caso es 
-	'''
+	```
 	~/.jupyter
-	'''
+	```
 - Editar, o crear:
-	'''
+	```
 	nbconfig/notebook.json
-	'''
+	```
 - Y agregar:
-	'''
+	```
 	{
 	  "MarkdownCell": {
 	    "cm_config": {
@@ -101,5 +101,5 @@ git push
 	    }
 	  }
 	}
-	'''
+	```
 -Por último reiniciar Jupyter-Notebook
