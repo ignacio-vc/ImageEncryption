@@ -88,6 +88,7 @@ git push
 	nbconfig/notebook.json
 	```
 - Y agregar:
+
 	```
 	{
 	  "MarkdownCell": {
@@ -102,4 +103,5 @@ git push
 	  }
 	}
 	```
--Por último reiniciar Jupyter-Notebook
+	
+- Por último reiniciar Jupyter-Notebook
