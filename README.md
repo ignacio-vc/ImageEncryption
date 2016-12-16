@@ -72,3 +72,34 @@ git push
 [The Research of Image Encryption Algorithms Based on Chaos Cellular Automata](https://pdfs.semanticscholar.org/bff7/e1fc9a4201e9b50b16314ceffd13c024edf4.pdf "articulo")
 
 [New Possiblities for Cellular Automata in Cryptography](http://www.criptored.upm.es/cibsi/cibsi2011/info/Ponencias/5.%20New%20Possibilities%20for%20Cellular%20Automata%20in%20Cryptography.pdf "presentacion")
+
+#### Configurar word wraping en Jupyter.
+
+- Primero, buscamos el directorio de configuración de Jupyter
+	'''
+	jupyter --config-dir
+	'''
+- En mi caso es 
+	'''
+	~/.jupyter
+	'''
+- Editar, o crear:
+	'''
+	nbconfig/notebook.json
+	'''
+- Y agregar:
+	'''
+	{
+	  "MarkdownCell": {
+	    "cm_config": {
+	      "lineWrapping": true
+	    }
+	  },
+	  "CodeCell": {
+	    "cm_config": {
+	      "lineWrapping": true
+	    }
+	  }
+	}
+	'''
+-Por último reiniciar Jupyter-Notebook
